@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+    <head>
+        <title>Dresses</title>
+        <link href="/node_modules/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+        <link href="/node_modules/bootstrap/dist/css/bootstrap-theme.css" rel="stylesheet">
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+        <link href="assets/css/custom.css" rel="stylesheet">
+        <link href="/node_modules/bootstrap/fonts/glyphicons-halflings-regular.eot">
+        <link href="/node_modules/bootstrap/fonts/glyphicons-halflings-regular.svg">
+        <link href="/node_modules/bootstrap/fonts/glyphicons-halflings-regular.ttf">
+        <link href="/node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff">
+        <link href="/node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff2">
+    </head>
+    
+<body>
+    
+
+    <nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#!/">Dresses</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#!/">Home</a></li>
+      <li><a href="#!/dresses">Dresses</a></li>
+      <li><a href="#!/about">About</a></li>
+    </ul>
+    <form class="navbar-form navbar-left">
+      <div class="input-group">
+        <input type="text" class="form-control" placeholder="Search" ng-model="searchBox">
+        <div class="input-group-btn">
+          <button class="btn btn-default" type="submit">
+            <i class="glyphicon glyphicon-search"></i>
+          </button>
+        </div>
+      </div>
+    </form>
+  </div>
+</nav>
+
+    
+    
+    
+    
+    <div ng-view></div>
+    
+    
+    <footer class="footer">
+    <div class="container">
+      <p class="text-muted text-center">
+        </p>
+
+      <p class="text-muted text-center">
+        <small>&copy; 2017 Dresses</small>
+      </p>
+    </div>
+  </footer>
+
+
+    
+<script src="/node_modules/angular/angular.js"></script>
+<script src="/node_modules/angular-route/angular-route.js"></script>
+<script src="/node_modules/jquery/dist/jquery.js"></script>   
+<script src="/node_modules/bootstrap/dist/js/bootstrap.js"></script>    
+
+   
+      
+<script src="app.js"></script>   
+<script src="home/HomeController.js"></script>
+<script src="dresses/DressesController.js"></script>    
+<script src="about/AboutController.js"></script>
+<script src="dressesFactory/dressesFactory.js"></script>
+
+
+
+</body>
+</html>

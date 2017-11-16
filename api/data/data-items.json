@@ -1,0 +1,215 @@
+[
+{
+    "name": "Casual Dress 1",
+    "price": 80,
+    "description": "This is a Casual",
+    "category": "Casual",
+    "image":"../assets/images/Casual1.jpg"
+},
+{
+    "name": "Casual Dress 2",
+    "price": 80,
+    "description": "This is a Casual",
+    "category": "Casual",
+    "image":"../assets/images/Casual2.jpg"
+},
+{
+    "name": "Casual Dress 3",
+    "price": 50,
+    "description": "This is a Casual",
+    "category": "Casual",
+    "image":"../assets/images/Casual3.jpg"
+},
+{
+    "name": "Casual Dress 4",
+    "price": 50,
+    "description": "This is a Casual",
+    "category": "Casual",
+    "image":"../assets/images/Casual4.jpg"
+},
+{
+    "name": "Casual Dress 5",
+    "price": 180,
+    "description": "This is a  Casual",
+    "category": "Casual",
+    "image":"../assets/images/Casual5.jpg"
+},
+{
+    "name": "Casual Dress 6",
+    "price": 80,
+    "description": "This is a Casual",
+    "category": "Casual",
+    "image":"../assets/images/Casual6.jpg"
+},
+{
+    "name": "Casual Dress 7",
+    "price": 100,
+    "description": "This is a Casual",
+    "category": "Casual",
+    "image":"../assets/images/Casual7.jpg"
+},
+{
+    "name": "Casual Dress 8",
+    "price": 80,
+    "description": "This is a  Casual",
+    "category": "Casual",
+    "image":"../assets/images/Casual8.jpg"
+},
+{
+    "name": "Casual Dress 9",
+    "price": 80,
+    "description": "This is a Casual",
+    "category": "Casual",
+    "image":"../assets/images/Casual9.jpg"
+},
+{
+    "name": "Casual Dress 10",
+    "price": 80,
+    "description": "This is a Casual",
+    "category": "Casual",
+    "image":"../assets/images/Casual10.jpg"
+},
+
+{
+    "name": "Summer Dress 1",
+    "price": 80,
+    "description": "This is a Summer",
+    "category": "Summer",
+    "image":"../assets/images/Summer1.jpg"
+},
+{
+    "name": "Summer Dress 2",
+    "price": 80,
+    "description": "This is a Summer",
+    "category": "Summer",
+    "image":"../assets/images/Summer2.jpg"
+},
+{
+    "name": "Summer Dress 3",
+    "price": 50,
+    "description": "This is a Summer",
+    "category": "Summer",
+    "image":"../assets/images/Summer3.jpg"
+},
+{
+    "name": "Summer Dress 4",
+    "price": 50,
+    "description": "This is a Summer",
+    "category": "Summer",
+    "image":"../assets/images/Summer4.jpg"
+},
+{
+    "name": "Summer Dress 5",
+    "price": 180,
+    "description": "This is a  Summer",
+    "category": "Summer",
+    "image":"../assets/images/Summer5.jpg"
+},
+{
+    "name": "Summer Dress 6",
+    "price": 80,
+    "description": "This is a Summer",
+    "category": "Summer",
+    "image":"../assets/images/Summer6.jpg"
+},
+{
+    "name": "Summer Dress 7",
+    "price": 100,
+    "description": "This is a Summer",
+    "category": "Summer",
+    "image":"../assets/images/Summer7.jpg"
+},
+{
+    "name": "Summer Dress 8",
+    "price": 80,
+    "description": "This is a  Summer",
+    "category": "Summer",
+    "image":"../assets/images/Summer8.jpg"
+},
+{
+    "name": "Summer Dress 9",
+    "price": 80,
+    "description": "This is a Summer",
+    "category": "Summer",
+    "image":"../assets/images/Summer9.jpg"
+},
+{
+    "name": "Summer Dress 10",
+    "price": 80,
+    "description": "This is a Summer",
+    "category": "Summer",
+    "image":"../assets/images/Summer10.jpg"
+},
+
+
+{
+    "name": "Prom Dress 1",
+    "price": 80,
+    "description": "This is a Prom",
+    "category": "Prom",
+    "image":"../assets/images/Prom1.jpg"
+},
+{
+    "name": "Prom Dress 2",
+    "price": 80,
+    "description": "This is a Prom",
+    "category": "Prom",
+    "image":"../assets/images/Prom2.jpg"
+},
+{
+    "name": "Prom Dress 3",
+    "price": 50,
+    "description": "This is a Prom",
+    "category": "Prom",
+    "image":"../assets/images/Prom3.jpg"
+},
+{
+    "name": "Prom Dress 4",
+    "price": 50,
+    "description": "This is a Prom",
+    "category": "Prom",
+    "image":"../assets/images/Prom4.jpg"
+},
+{
+    "name": "Prom Dress 5",
+    "price": 180,
+    "description": "This is a  Prom",
+    "category": "Prom",
+    "image":"../assets/images/Prom5.jpg"
+},
+{
+    "name": "Prom Dress 6",
+    "price": 80,
+    "description": "This is a Prom",
+    "category": "Prom",
+    "image":"../assets/images/Prom6.jpg"
+},
+{
+    "name": "Prom Dress 7",
+    "price": 100,
+    "description": "This is a Prom",
+    "category": "Prom",
+    "image":"../assets/images/Prom7.jpg"
+},
+{
+    "name": "Prom Dress 8",
+    "price": 80,
+    "description": "This is a  Prom",
+    "category": "Prom",
+    "image":"../assets/images/Prom8.jpg"
+},
+{
+    "name": "Prom Dress 9",
+    "price": 80,
+    "description": "This is a Prom",
+    "category": "Prom",
+    "image":"../assets/images/Prom9.jpg"
+},
+{
+    "name": "Prom Dress 10",
+    "price": 80,
+    "description": "This is a Prom",
+    "category": "Prom",
+    "image":"../assets/images/Prom10.jpg"
+}
+]

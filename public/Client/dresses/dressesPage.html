@@ -1,0 +1,11 @@
+
+<div class="row">
+  <div class="col-sm-4" ng-repeat="dress in vm.dresses | filter:searchBox"   >
+      <img ng-src="{{dress.image}}" alt="" width="250" height="250">
+      <h2>{{dress.name}}</h2>
+      <h1>{{dress.price | currency}}</h1>
+      <p>{{dress.description}}</p>
+  </div>
+</div>
+  
+  
